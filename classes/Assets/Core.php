@@ -191,7 +191,7 @@ class Assets_Core
 	 * @access public
 	 * @param mixed $key
 	 * @param mixed $path (default: NULL)
-	 * @return object
+	 * @return Assets_Core
 	 */
 	public function js($key, $path = NULL)
 	{
